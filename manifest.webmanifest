@@ -1,0 +1,17 @@
+{
+  "name": "Mock Fire Door Inspection",
+  "short_name": "Mock Inspect",
+  "description": "Classroom practice tool for recording a mock fire door inspection. All data stays on the device.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f4f1",
+  "theme_color": "#f5f4f1",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
